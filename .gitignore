@@ -140,7 +140,7 @@ venv.bak/
 *.srt
 *.vtt
 *.txt
-*.csv
+# *.csv
 *.log*
 !requirements_dev.txt
 !requirements.txt
